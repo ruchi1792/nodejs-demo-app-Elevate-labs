@@ -182,53 +182,41 @@ Configure the following repository secrets under **Settings → Secrets and vari
 
 ⚠️ **Security:** Never commit access tokens, passwords, or other sensitive credentials to GitHub.
 
+## 
 ## 📸 Project Screenshots
 
-The following screenshots document the project from initial setup through successful CI/CD execution and image publishing.
-
 ### 1. 🧰 Project Setup
-
-![Project Setup](screenshots/01-project-setup.png)
+![Project Setup](screenshots/01-project-setup.PNG)
 
 ### 2. 🧪 Automated Tests Passed
-
-![Automated Tests](screenshots/02-tests-passed.png)
+![Automated Tests](screenshots/02-tests-passed.PNG)
 
 ### 3. 🐳 Docker Image Build
-
-![Docker Build](screenshots/03-docker-build.png)
+![Docker Build](screenshots/03-docker-build.PNG)
 
 ### 4. 📦 Docker Container Running
-
-![Docker Container](screenshots/04-docker-container.png)
+![Docker Container](screenshots/04-docker-container.PNG)
 
 ### 5. 🌐 Application Verification
-
-![Application Verification](screenshots/05-application-verified.png)
+![Application Verification](screenshots/05-application-verified.PNG)
 
 ### 6. 🐙 GitHub Repository
-
-![GitHub Repository](screenshots/06-github-repository.png)
+![GitHub Repository](screenshots/06-github-repository.PNG)
 
 ### 7. ⚙️ Workflow Configuration — View 1
-
-![Workflow Configuration](screenshots/07-workflow-configuration.png)
+![Workflow Configuration View 1](screenshots/07-workflow-configuration.PNG)
 
 ### 8. ⚙️ Workflow Configuration — View 2
-
-![Workflow Configuration Additional View](screenshots/08-workflow-configuration.png)
+![Workflow Configuration View 2](screenshots/08-workflow-configuration.PNG)
 
 ### 9. ✅ Successful CI/CD Pipeline — View 1
-
-![Successful CI/CD Pipeline](screenshots/09-pipeline-success.png)
+![Pipeline Success View 1](screenshots/09-pipeline-success.PNG)
 
 ### 10. ✅ Successful CI/CD Pipeline — View 2
-
-![CI/CD Pipeline Additional View](screenshots/10-pipeline-success.png)
+![Pipeline Success View 2](screenshots/10-pipeline-success.PNG)
 
 ### 11. 🚀 Docker Hub Image Published
-
-![Docker Hub Latest Image](screenshots/11-dockerhub-latest.png)
+![Docker Hub Latest Image](screenshots/11-dockerhub-latest.PNG)
 
 ## 🏆 Project Results
 
